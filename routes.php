@@ -1,7 +1,7 @@
 <?php
 
 $router->define([
-    '/' => 'controllers/home.php',
+    '/' => 'controllers/allCompanies.php',
     '/all' => 'controllers/allCompanies.php',
     '/imone' => 'controllers/viewCompany.php',
     '/new-company' => 'controllers/newCompany.php',

@@ -33,5 +33,6 @@
                 </ul>
             </nav>
         </div>
+    <?php include "view/_partials/footer.view.php"; ?>
     </body>
 </html>

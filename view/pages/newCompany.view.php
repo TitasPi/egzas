@@ -33,5 +33,6 @@
                 <button type="submit" name="send" class="btn btn-primary">Pridėti</button>
             </form>
         </div>
+    <?php include "view/_partials/footer.view.php"; ?>
     </body>
 </html>

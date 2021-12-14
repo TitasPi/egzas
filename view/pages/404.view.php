@@ -7,5 +7,6 @@
             <h1>Puslapis nerastas</h1>
             <p>❗Klaida: Puslapis nerastas❗</p>
         </div>
+    <?php include "view/_partials/footer.view.php"; ?>
     </body>
 </html>
